@@ -1,0 +1,6 @@
+chromadb
+sentence-transformers
+pandas 
+gradio
+sqlparse
+huggingface_hub
