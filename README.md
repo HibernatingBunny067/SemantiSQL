@@ -117,14 +117,6 @@ python generate_data.py
 
 -----
 
-## 🔮 Future Improvements
-
-  * **Feedback Loop:** Add "Thumbs Up/Down" to results to fine-tune the embeddings over time.
-  * **Sandboxed Execution:** Allow users to run `SELECT` queries against a dummy SQLite database directly in the browser.
-  * **Code-to-Code Search:** Allow users to input a SQL snippet and find similar patterns in the codebase.
-
------
-
 ## 🤝 Contributing
 
 Contributions are welcome\! Please open an issue or submit a pull request for any bugs or features.
